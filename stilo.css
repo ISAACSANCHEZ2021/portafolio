@@ -441,7 +441,7 @@ svg
    body
    {
     width: 100%;
-    height: auto;
+    height: 100vh;
     background-repeat: no-repeat;
     background-size: 100% 100%;
    } 
