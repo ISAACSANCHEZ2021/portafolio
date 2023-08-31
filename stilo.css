@@ -347,11 +347,14 @@ svg
 }
 #portafolio
 {
-    background-color: lightseagreen;
+    background-color: rgba(0, 0, 0, 0.137);
     width: 100%;
     height: 400px;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 1px solid #1f53c5;
     position: relative;
     top: 150px;
 }
@@ -436,6 +439,212 @@ svg
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     color: rgba(0, 0, 0, 0.582);
+}
+.l1
+{
+    width: 100%;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+
+}
+.ra1
+{
+    background-repeat: no-repeat;
+    width: 170px;
+    height: 249px;
+    margin: 20px;
+    padding: 0;
+    top: 60px;
+    position: relative;
+    right: 0;
+    left: 20px;
+    
+}
+.ra2
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra3
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 254px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra4
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 468px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra5
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 682px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra6
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 896px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra7
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 1110px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra8
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra9
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 254px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra10
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 468px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra11
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 682px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra12
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 896px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ra13
+{
+    width: 170px;
+    height: 25px;
+    background: rgba(26, 213, 219, 0.342);
+    padding: 0;
+    margin: 0;
+    top: 350px;
+    position: absolute;
+    right: 0;
+    left: 1110px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
 }
 @media screen and (max-width: 540px) {
    body
