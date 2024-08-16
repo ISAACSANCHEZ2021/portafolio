@@ -1,0 +1,241 @@
+body
+{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+body::-webkit-scrollbar
+{
+    width: 3px;
+    background-color: black;
+}
+body::-webkit-scrollbar-thumb
+{
+    background: rgba(214, 42, 30, 0.884);
+    border-radius: 10px;
+}
+.const
+{
+    padding: 0;
+}
+.banner
+{
+    width: 100%;
+    height: 355px;
+    padding: 1px;
+    background-image: url("../img/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.titulo
+{
+    width: 50%;
+    height: auto;
+    margin: 0 0 0 auto ;
+    padding: 1px;
+    position: relative;
+    top: 100px;
+}
+.titulo h1
+{
+    width: auto;
+    padding: 5px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.titulo h4
+{
+    width: 92%;
+    margin: 0 auto 0 0;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.tecno
+{
+    width: 100%;
+    height: 246px;
+    padding: 1px;
+}
+.tecno h3
+{
+    margin-top: 15px;
+    color: rgb(214, 42, 30);
+    text-align: center;
+}
+.r1
+{
+    margin: auto;
+    margin-top: 21px;
+}
+.a1
+{
+    text-align: center;
+}
+.a1 a
+{
+    color: rgb(214, 42, 30);
+}
+.tecno h5
+{
+    color: white;
+}
+.to2
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+}
+.to2 h3
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    color: rgb(214, 42, 30);
+}
+.info1
+{
+    width: 100%;
+    height: auto;
+    margin: 25px auto 55px;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+    box-shadow: 7px 13px 37px rgba(255, 51, 0, 0.781);
+    border: 1px solid rgb(214, 42, 30);
+}
+.info1 img
+{
+    height: 510px;
+}
+.info2
+{
+    width: 100%;
+    height: auto;
+    padding: 1px;
+}
+.asin1
+{
+    margin: 25px auto 55px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    box-shadow: 7px 13px 37px rgba(255, 51, 0, 0.781);
+    border: 1px solid rgb(214, 42, 30);
+}
+.info2 h4
+{
+    color: white;
+}
+.info2 p
+{
+    color: rgb(214, 42, 30);
+}
+.info2 h3
+{
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(214, 42, 30);
+}
+.im
+{
+    width: 100%;
+    height: 100%;
+}
+/*animacion*/
+.center-outer 
+{
+    display: table;
+    width: 100%;
+    height: 246px;
+}
+    
+.center-inner 
+{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+    
+    /* Essential CSS - Makes the effect work */
+.bubbles 
+{
+    display: inline-block;
+    font-family: arial;
+    position: relative;
+}
+        
+.bubbles h1 
+{
+    position: relative;
+    margin: 1em 0 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(214, 42, 30);
+    z-index: 2;
+}
+        
+.individual-bubble 
+{
+    position: absolute;
+    border-radius: 100%;
+    bottom: 10px;
+    background-color: #fff;
+    z-index: 1;
+}
+.info3
+{
+    width: 100%;
+    height: auto;
+}
+.desfro
+{
+    box-sizing: border-box;
+    border-radius: 4px;
+    box-shadow: 7px 13px 37px rgba(255, 51, 0, 0.781);
+    border: 1px solid rgb(214, 42, 30);
+}
+.info3 h4
+{
+    color: white;
+}
+.info3 p
+{
+    color: rgb(214, 42, 30);
+}
+.info4
+{
+    width: 100%;
+    height: auto;
+    margin: 70px auto 50px auto;
+    padding: 1px;
+}
+.info4 h3
+{
+    text-align: center;
+    color: rgb(214, 42, 30);
+}
+.foter
+{
+    width: 100%;
+    height: auto;
+    padding: 1px;
+    border: 1px solid rgb(214, 42, 30);
+}
+.k1
+{
+    width:260px;
+    height: auto;
+    margin: 0 0 0 auto;
+
+}
+.g2
+{
+    color: rgb(214, 42, 30);
+}
+.g1
+{
+    text-align: center;
+    color: rgb(214, 42, 30);
+}
